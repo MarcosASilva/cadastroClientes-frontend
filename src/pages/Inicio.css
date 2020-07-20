@@ -1,0 +1,10 @@
+.corpo {
+    margin-top: 20px;
+    padding: 15px;
+}
+.cardInfo {
+    padding: 40%;
+    width: 20%;
+    height: 20%;    
+    background-color: crimson;
+}
